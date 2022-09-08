@@ -1,17 +1,28 @@
 - 👋 Hi, I’m @Ayvid21
-- 👀 I’m interested in Web devlopment and Web designing
-- 🌱 Java is on the way.
-- 💞️ Looking to work in an open source project
-- 📫 Can contact me at ayvidrajpoot21@gmail.com
+- 👀 I’m a Web devloper and a Web designer
+- 🌱 Java is my way.
+- 💞️ Working on my personal projects 
+- 📫 Contact me at ayvidrajpoot21@gmail.com
+-
 
-My programming skills are:
+
+
+*My programming skills are:*
+
+Java
 C 
 C++ 
-Java 
 JavaScript 
 Python 
 
-My other skills are:
-Basics of UI and UX
-Basics of data structures
-Vector graphic design using Gravit designer and Adobe XD
+
+
+*My other skills are:*
+
+ReactJs
+UI and UX
+Web designing
+Web development
+Android Development
+Data Structures and Algorithms
+Vector graphic design (Gravit designer & Adobe XD)
