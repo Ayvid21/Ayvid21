@@ -7,22 +7,20 @@
 
 
 
-*My programming skills are:*
-
-Java
-C 
-C++ 
-JavaScript 
+My programming skills are --> 
+Java, 
+C, 
+C++, 
+JavaScript, 
 Python 
 
 
 
-*My other skills are:*
-
-ReactJs
-UI and UX
-Web designing
-Web development
-Android Development
-Data Structures and Algorithms
+My other skills are --> 
+ReactJs, 
+UI and UX, 
+Web designing, 
+Web development, 
+Android Development, 
+Data Structures and Algorithms, 
 Vector graphic design (Gravit designer & Adobe XD)
