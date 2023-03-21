@@ -1,26 +1,32 @@
-- 👋 Hi, I’m @Ayvid21
-- 👀 I’m a Web devloper and a Web designer
-- 🌱 Java is my way.
-- 💞️ Working on my personal projects 
-- 📫 Contact me at ayvidrajpoot21@gmail.com
--
+- 👋 Hi, I’m Divya Rajpoot
+- 🌱 Java is my way
+- 👀 I’m a devloper and a designer
+- 💞️ Dribbble Id -> https://dribbble.com/AyvidRajpoot
+- 🖌️ Behance Id -> https://www.behance.net/divyasrajpoot
+- 📫 Contact me -> ayvidrajpoot21@gmail.com, designwithdivya@gmail.com
 
 
 
 My programming skills are --> 
-Java, 
+ 
 C, 
-C++, 
+C++,
+Java,
+Python
 JavaScript, 
-Python 
+ 
 
 
 
 My other skills are --> 
+
+NodeJs
+Express
+MongoDB
 ReactJs, 
 UI and UX, 
 Web designing, 
 Web development, 
 Android Development, 
 Data Structures and Algorithms, 
-Vector graphic design (Gravit designer & Adobe XD)
+Vector graphic design (Gravit designer, Figma & Adobe XD)
