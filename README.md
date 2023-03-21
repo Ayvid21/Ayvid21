@@ -3,6 +3,7 @@
 - 👀 I’m a devloper and a designer
 - 💞️ Dribbble Id -> https://dribbble.com/AyvidRajpoot
 - 🖌️ Behance Id -> https://www.behance.net/divyasrajpoot
+- 😎 Linkedin Id -> https://www.linkedin.com/in/divyarajpoot/
 - 📫 Contact me -> ayvidrajpoot21@gmail.com, designwithdivya@gmail.com
 
 
