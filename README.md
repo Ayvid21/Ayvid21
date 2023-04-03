@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Divya Rajpoot
 - 🌱 Java is my way
-- 👀 I’m a devloper and a designer
+- 👀 A devloper and a designer
 - 💞️ Dribbble Id -> https://dribbble.com/AyvidRajpoot
 - 🖌️ Behance Id -> https://www.behance.net/divyasrajpoot
 - 😎 Linkedin Id -> https://www.linkedin.com/in/divyarajpoot/
