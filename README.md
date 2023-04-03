@@ -21,9 +21,9 @@ JavaScript,
 
 My other skills are --> 
 
-NodeJs
-Express
-MongoDB
+NodeJs,
+Express,
+MongoDB,
 ReactJs, 
 UI and UX, 
 Web designing, 
