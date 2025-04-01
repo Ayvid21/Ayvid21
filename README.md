@@ -1,24 +1,30 @@
 
 🚀 Software Developer | Frontend Engineer @Avizva solutions
-💻 Passionate about building seamless user experiences and crafting interactive web applications. I specialize in JavaScript and love working with React.js, Microapps, and Storybook to bring ideas to life.
-🎨 As both a developer & designer, I have a keen interest in UI/UX and enjoy designing intuitive, user-friendly interfaces.
+
+- 💻 Passionate about building seamless user experiences and crafting interactive web applications. I specialize in JavaScript and love working with React.js, Microapps, and Storybook to bring ideas to life.
+- 🎨 As both a developer & designer, I have a keen interest in UI/UX and enjoy designing intuitive, user-friendly interfaces.
 
 
 🔗 Connect with Me:
-😎 LinkedIn → Divya Rajpoot
-📫 Email → ayvidrajpoot21@gmail.com | designwithdivya@gmail.com
-🖌️ Behance → Divya S. Rajpoot
-💞️ Dribbble → Ayvid Rajpoot
+
+- 😎 LinkedIn → Divya Rajpoot
+- 📫 Email → ayvidrajpoot21@gmail.com | designwithdivya@gmail.com
+- 🖌️ Behance → https://www.behance.net/divyasrajpoot
+- 💞️ Dribbble → https://dribbble.com/AyvidRajpoot
 
 
 🛠️ My Programming Skills:
-C, C++, Java, Python, JavaScript
+
+JavaScript, Java, C++, C, Python 
+
 
 🔧 My Other Skills:
-Frontend: HTML, CSS, React.js, Storybook, Microapps
-Backend: Node.js, Express, MongoDB
-Web Development, Web Designing, & UI/UX Vector Graphic Design (Gravit Designer, Figma, Adobe XD)
-Computer Science: Data Structures & Algorithms
-Mobile: Android Development
+
+- Frontend: HTML, CSS, React.js, Storybook, Microapps
+- Backend: Node.js, Express
+- Database: MongoDB
+- Web Development, Web Designing, & UI/UX Vector Graphic Design (Gravit Designer, Figma, Adobe XD)
+- Computer Science: Data Structures & Algorithms
+- Mobile: Android Development
 
 🌱 Always learning, always experimenting! Let's build something awesome together. 🚀
