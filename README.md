@@ -20,7 +20,7 @@ JavaScript, Java, C++, C, Python
 
 🔧 My Other Skills:
 
-- Frontend: HTML, CSS, React.js, Storybook, Microapps
+- Frontend: HTML, CSS, React.js, Storybook, MicroFrontend and Microapps
 - Backend: Node.js, Express
 - Database: MongoDB
 - Web Development, Web Designing, & UI/UX Vector Graphic Design (Gravit Designer, Figma, Adobe XD)
