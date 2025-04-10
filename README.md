@@ -7,10 +7,10 @@
 
 🔗 Connect with Me:
 
-- 😎 LinkedIn → Divya Rajpoot
+- 😎 LinkedIn → linkedin.com/in/divyarajpoot
 - 📫 Email → ayvidrajpoot21@gmail.com | designwithdivya@gmail.com
-- 🖌️ Behance → https://www.behance.net/divyasrajpoot
-- 💞️ Dribbble → https://dribbble.com/AyvidRajpoot
+- 🖌️ Behance → www.behance.net/divyasrajpoot
+- 💞️ Dribbble → dribbble.com/AyvidRajpoot
 
 
 🛠️ My Programming Skills:
